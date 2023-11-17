@@ -1,3 +1,8 @@
+package inheritance;
+
+
+import inheritance.doings;
+
 
 
 
